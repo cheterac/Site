@@ -1,4 +1,4 @@
-# Просто так
+# ????
 
 Артем топ, Артем класс, кто не верит тому в глаз!!!!! 
 <!DOCTYPE html>
@@ -12,8 +12,6 @@
 </head>
 <body>
     <h1>Dinosaur</h1>
-    <div class="button_div">
-        <h1 class="button_txt">Button</h1>
     </div>
 </body>
 </html>
